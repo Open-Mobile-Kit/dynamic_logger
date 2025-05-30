@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Initial release of dynamic_logger with basic logging functionality and sink architecture.
