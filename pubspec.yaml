@@ -1,5 +1,5 @@
 name: dynamic_logger
-description: "A new Flutter project."
+description: "A flexible, extensible, and customizable logging solution for Flutter applications that provides multiple logging targets, log levels, and formatting options."
 version: 0.0.1
 homepage:
 
